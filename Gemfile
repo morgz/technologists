@@ -47,4 +47,5 @@ end
 
 gem 'rails_12factor', group: :production
 
+gem "linkedin-oauth2", "~> 1.0"
 
